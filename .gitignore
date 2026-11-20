@@ -1,0 +1,21 @@
+# Environments
+.venv/
+__pycache__/
+
+# Massive Datasets and Videos (DO NOT UPLOAD)
+dataset/
+cache_per_video/
+omnifall_le2i/
+le2i_raw/
+le2i_formatted/
+videos/
+IndoorActionDataset/
+*.avi
+*.mp4
+*.zip
+*.tar.xz
+*.csv 
+
+# Model files
+# behavior_model_yolo26.pkl
+# yolo26n-pose.pt
